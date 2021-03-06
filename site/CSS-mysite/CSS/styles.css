@@ -1,0 +1,45 @@
+body {
+    background-color: whitesmoke;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+div {
+    background-color: whitesmoke;
+}
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 75px;
+}
+.middle-container {
+    background-color: blue;
+}
+.bottom-container {
+    background-color: red;
+}
+.pro {
+    text-decoration: underline;
+}
+.top-cloud {
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+.bottom-cloud {
+    position:absolute;
+    left:300px;
+    bottom:300px;
+
+}
