@@ -11,7 +11,6 @@
          <tr>
             <td><img align="left" alt="profile picture" src="circle-cropped.png" alt="joao felix profile picture"   height=145\></td>
             <td><h1>Joao Felix</h1></td>
-
             </tr>
             </table>
             <p><strong>Msc Engineering Management Student and Industrial Engineering</strong></p>
@@ -19,8 +18,8 @@
             focused on Programming and Computational Simulation. 
             Knowledgeable ability to manage tasks and priorities and 
             exemplary skills in project management, 
-            data analytics and web development. </p>
-    
+            data analytics and web development.
+            </p>
             <a href="https://twitter.com/jhfelix7">
             <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
             </a>
